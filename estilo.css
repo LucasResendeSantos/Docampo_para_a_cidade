@@ -6,6 +6,9 @@ body{
 .cabecalho{
     background-image: url(./img/depositphotos_5076472-stock-photo-a-lot-sheep-on-the.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 300px;
 }
 
 .cabecalho-img{
